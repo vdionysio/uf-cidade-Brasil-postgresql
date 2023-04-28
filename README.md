@@ -1,6 +1,6 @@
 # Script POSTGRESQL - estados e cidades brasileiras.
 
-Script postgresql simples para criar e popular tabelas de estados e cidade brasileiras.
+Script postgresql simples para criar e popular tabelas de estados e cidades brasileiras.
 
 A tabela state possui duas colunas:
 - uf - codigo uf como Primary Key
