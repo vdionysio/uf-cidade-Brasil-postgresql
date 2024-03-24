@@ -12,7 +12,7 @@ A tabela city possui 3 colunas:
 - uf - codigo uf como Foreign Key (referenciando a tabela state)
 
 <figure>
-  <img src="diagrama.png" alt="diagrama er">
+  <img src="diagrama.png" alt="Diagrama ER">
   <figcaption>Diagrama ER</figcaption>
 </figure>
 
